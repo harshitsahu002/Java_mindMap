@@ -1,4 +1,4 @@
-/*Using	AWT,write a program	to display a string in frame window	with pink color as background.	*/
+/*Using	AWT,write aprogram	to display a string in frame window	with pink color as background.	*/
 
 import java.awt.*;
 import java.awt.event.*;
